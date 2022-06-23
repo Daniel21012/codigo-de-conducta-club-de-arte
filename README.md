@@ -30,7 +30,6 @@ O cualquier otra dimensión de diversidad.
 El `Club de Arte EPN` se dedicará a garantizar que cada **espacio (virtual o presencial)** que se organice y cada persona que participe deba:
 
 -   Ser amable con los demás
--   Comportarse profesionalmente
 -   Uso de lenguaje acogedor e inclusivo
 -   Ser respetuoso con los diferentes puntos de vista y experiencias del resto de participantes
 -   Aceptar de buen grado las críticas constructivas
@@ -47,7 +46,6 @@ No creemos que todo conflicto sea malo; un debate y un desacuerdo saludables a m
 -   Atención sexual no deseada
 -   Contacto físico no deseado
 -   Interrupción sostenida en los espacios
--   Otra conducta inapropiada para un ambiente profesional
 
 ## Cómo reportar
 
@@ -73,11 +71,11 @@ Se puede realizar un reporte directamente con algún organizador del club:
 
 Si recibimos el reporte en persona, nuestro personal se asegurará de que sea en un lugar seguro y nadie más pueda escucharlo. Pueden involucrar a otro organizador del club para garantizar que el reporte se gestione correctamente. Una vez que garantizamos la seguridad del reportante, le pediremos que nos cuente sobre lo que ha sucedido, esto puede ser molesto, pero lo manejaremos con el mayor respeto posible, y por supuesto, puede traer a alguien para que lo respalde. No se pedirá que se enfrente con nadie y no transmitiremos su identidad sin su consentimiento.
 
-Se evaluará cada reporte y se tomará las medidas necesarias dentro del club. De ser necesario y con acuerdo previo de la víctima se iniciará un proceso con el Departamento de Bienestar Politécnico y el Consejo Politécnico.
+Se evaluará cada reporte y se tomarán las medidas necesarias dentro del club. De ser necesario y con acuerdo previo del reportante se iniciará un proceso con el Departamento de Bienestar Politécnico y el Consejo Politécnico.
 
 ## Atribución
 
-El Código de Conducta del club de arte EPN ha sido creado a partir de una política de conducta de ejemplo de Geek Feminism wiki, está bajo una licencia Creative Commons Zero license.
+El Código de Conducta del `Club de Arte EPN` ha sido creado a partir de una política de conducta de ejemplo de Geek Feminism wiki, está bajo una licencia Creative Commons Zero license.
 
 Esta declaración agradece lo siguiente, en la cual se basa en contenido e inspiración:
 
