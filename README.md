@@ -56,7 +56,7 @@ Los reportes se pueden realizar con un formulario o personalmente
 ### Reportar con un formulario
 
 Se puede realizar un reporte llenando el siguiente
-<a href="" target="_blank">formulario</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfRAZ0ou2clapM8K_GM6dkC6d3Yosh4yXe8aEqy6JwkKBV4ww/viewform" target="_blank">formulario</a>
 
 ### Reporte personal
 
