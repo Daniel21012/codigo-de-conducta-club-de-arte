@@ -2,7 +2,8 @@
 
 El `Club de Arte EPN` (Escuela Politécnica Nacional) es una comunidad que busca desarrollo de habilidades artísticas y culturales en un entorno libre de prejuicios, bullying y egocentrismo.
 
-Este código de conducta debe ser acatado por cualquier persona que pertenezca a la comunidad o que participe en cualquier actividad que organiza la comunidad.
+Este código de conducta debe ser acatado por cualquier persona que pertenezca a la comunidad o que participe en cualquier actividad que organiza la comunidad. Las reglas deben ser cumplidas tanto en las reuniones presenciales, reuniones virtuales, eventos, talleres, presentaciones y dentro de los grupos de Whatsapp y Discord.
+
 
 Invitamos a todos los que participan en el `Club de Arte EPN` a que nos ayuden a crear experiencias seguras y positivas para todos.
 
@@ -46,6 +47,10 @@ No creemos que todo conflicto sea malo; un debate y un desacuerdo saludables a m
 -   Atención sexual no deseada
 -   Contacto físico no deseado
 -   Interrupción sostenida en los espacios
+
+Está prohibido hacer spam de mensajes o stickers que resulten molestos para el resto de personas o persona. 
+Todos los participantes tienen el derecho de realizar algún tipo de queja que afecte su bienestar, ya sea por violencia o actos que involucren vulnerabilidades de la o las personas.
+No se pueden enviar stickers o contenido que afecte la integridad de grupos vulnerables o minorías históricamente discriminadas.
 
 ## Cómo reportar
 
